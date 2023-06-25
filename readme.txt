@@ -1,1 +1,1 @@
-运行guangdong/main.py
+运行guangdong/guangdong/main.py
